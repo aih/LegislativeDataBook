@@ -33,14 +33,7 @@ First draft assignment: @grantcv1 or @aih
             - Options (pros and cons)
             - Current status and tips for practitioners
         - Amendment forms @grantcv1
-            - History
-            - Options (pros and cons)
-            - Current status and tips for practitioners
-        - Bill Amendment
-            - History
-            - Options (pros and cons)
-            - Current status and tips for practitioners
-        - Amendment of Permanent Law (Acts, Codes)
+            - Bill and Permanent Law Amendments
             - History
             - Options (pros and cons)
             - Current status and tips for practitioners
