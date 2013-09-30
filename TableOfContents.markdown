@@ -3,7 +3,7 @@ First draft assignment: @grantcv1 or @aih
     - Role of legislation in law (historical and present)
     - U.S. law school bias favors case law
     - Convergence of law and technology
-        - What is changing in legislaation now?
+        - What is changing in legislation now?
         - What is changing in technology now?
 * Transparency and Open Government
     - Introduction
